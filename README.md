@@ -1,4 +1,4 @@
-### NODE JS / GRAPHQL/ MONGODB / REACT JS 
+### NODE JS / GRAPHQL / MONGODB / REACT JS / SEMANTIC UI
 
    GraphQL is a query language and can be put on top of any backend service
    It is efficient. GraphQL returns only the requested data from a query
